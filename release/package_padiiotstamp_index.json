@@ -59,6 +59,13 @@
               "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.2.tar.gz",
               "checksum": "SHA-256:2e1e810568e11d4769f3d5d458474ec78dca88916b3521ae58a99408207a0ffe",
               "size": "11572"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "archiveFileName": "openocd_tools-0.0.2.tar.gz",
+              "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.2.tar.gz",
+              "checksum": "SHA-256:2e1e810568e11d4769f3d5d458474ec78dca88916b3521ae58a99408207a0ffe",
+              "size": "11572"
             }
           ]
         }
